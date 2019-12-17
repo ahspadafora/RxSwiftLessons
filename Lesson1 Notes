@@ -1,0 +1,13 @@
+RxSwift Tutorial Notes from Beginning RxSwift - Lesson 1
+
+* What is RxSwift? 
+    * its based on ReactiveX a standard based on reactive programming 
+    * Created in 2015
+    * An asynchronous programming library that is based on using observables
+        * observables: a sequence of events that you can react to 
+            * such as data from a web service or taps from a user
+        * observables are represented by marble diagrams
+            * horizontal line represents time
+            * marbles represent events that happen over time
+* Benefits of RxSwift
+    * Easier to follow stream of logic
